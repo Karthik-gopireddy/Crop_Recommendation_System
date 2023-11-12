@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-model = joblib.load("C:/Users/soppoju narender/crop_recommendation_model.pkl")
+model = joblib.load("crop_recommendation_model.pkl")
 crop_data = {
     20: {'name': 'Rice', 'image_path': 'https://blog.bigbasket.com/wp-content/uploads/2018/07/hmt-kolam-rice.jpg'},
     11: {'name': 'Maize', 'image_path': 'https://cdn.britannica.com/36/167236-050-BF90337E/Ears-corn.jpg?w=400&h=300&c=crop'},

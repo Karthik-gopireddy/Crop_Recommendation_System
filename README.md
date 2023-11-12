@@ -31,7 +31,7 @@
             <code>pip install -r requirements.txt</code>
         </li>
         <li>Run the application:
-            <code>python app.py</code>
+            <code>crop_recommendation.py</code>
         </li>
     </ol>
 
@@ -53,4 +53,4 @@
         </li>
         <li>Create a pull request to the main repository.</li>
     </ol>
-
+<a href="https://croprecommendationsystem-narender-soppoju.streamlit.app/">To View Live Application Click Here</a>
